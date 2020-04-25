@@ -1,2 +1,2 @@
 # churn_analysis
-Churn analysis in a market database 
+Will a customer buy again with us ?
