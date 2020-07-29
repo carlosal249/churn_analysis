@@ -14,9 +14,9 @@ Churn analytics helps companies plug the leak in their customer bucket, to borro
 <h3 align=center>Model:</h3>
 
 <p>The model takes a input like:</p>
-| Age | Anualincome | calldroprate | education | homeowner |
-| --- | ----------- | ------------- | ------------- | ------------- |
-| 30 | 30.000k  | 30 | 0.7 | Bachelor or Equivalent | Yes | 
+| Age | Anualincome | calldroprate  | education| homeowner |
+| --- | ----------- |  ------------ | -------- |  -------- |
+| 30  | 30.000k     | 0.7           | Bachelor | Yes       | 
 
 <p> And the output will be the probability of that customer to churn ranging from 0-100%, where 0% represent the customer Don't churn</p>
 
